@@ -1,1 +1,1 @@
-Client personnalisé
+<span data-ttu-id="be004-101">Client personnalisé</span><span class="sxs-lookup"><span data-stu-id="be004-101">RoleTailored client</span></span>

@@ -1,1 +1,1 @@
-outils d'approvisionnement
+<span data-ttu-id="1de91-101">outils d'approvisionnement</span><span class="sxs-lookup"><span data-stu-id="1de91-101">provisioning tools</span></span>
