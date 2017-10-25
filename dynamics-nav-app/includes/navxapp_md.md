@@ -1,1 +1,1 @@
-<span data-ttu-id="d8c7a-101">Extension NAV</span><span class="sxs-lookup"><span data-stu-id="d8c7a-101">NAV extension</span></span>
+<span data-ttu-id="501a6-101">Extension NAV</span><span class="sxs-lookup"><span data-stu-id="501a6-101">NAV extension</span></span>

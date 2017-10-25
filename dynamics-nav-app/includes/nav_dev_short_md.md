@@ -1,1 +1,1 @@
-<span data-ttu-id="6c5e5-101">environnement de développement</span><span class="sxs-lookup"><span data-stu-id="6c5e5-101">development environment</span></span>
+<span data-ttu-id="05640-101">environnement de développement</span><span class="sxs-lookup"><span data-stu-id="05640-101">development environment</span></span>
