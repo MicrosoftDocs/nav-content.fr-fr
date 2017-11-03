@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: adf37f9b80922a0652cf92478c77206175cd23d9
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 3649de416bdc023faf61b978b64b487dbce377f4
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="france-local-functionality"></a>Fonctionnalité locale, France
@@ -27,4 +27,7 @@ Les rubriques suivantes décrivent la fonctionnalité locale qui est propre à l
   [Amortissement accéléré](accelerated-depreciation.md)  
   [Gestion des paiements](payment-management.md)  
   [Simulation d'écritures](simulation-of-entries.md)  
+
+## <a name="see-also"></a>Voir aussi
+[Utilisation de [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)     
 

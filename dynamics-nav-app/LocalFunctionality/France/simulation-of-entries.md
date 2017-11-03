@@ -1,6 +1,6 @@
 ---
 title: "Simulation d'écritures"
-description: Dynamics NAV
+description: "La fonctionnalité pour la France peuvent notamment simuler des écritures validées avant la validation."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,16 +12,16 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cd3f0074d38ff4477beb276a41b292459e01420d
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 475af2199e2b693f6ad5cec17e1dfab95966f41a
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="simulation-of-entries"></a>Simulation d'écritures
-Dynamics NAV
+La fonctionnalité pour simuler des écritures validées avant la validation est décrite dans les rubriques ci-dessous.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="in-this-section"></a>Dans cette section
 [Procédure : paramétrer une simulation](how-to-set-up-simulation.md)  
 [Procédure : créer des écritures de simulation](how-to-create-simulation-entries.md)  
 [Procédure : supprimer des écritures de simulation](how-to-delete-simulation-entries.md)  

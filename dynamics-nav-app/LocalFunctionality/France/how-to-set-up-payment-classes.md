@@ -12,23 +12,21 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3a00334c7cd41d897b369d943b6809c256e4e4a7
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 549b0a4d3fdb789988bcb3f971c7b0b6c8f6893e
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-payment-classes"></a>Procédure : paramétrer des types de règlement
 Pour utiliser le module Gestion des paiements, vous devez paramétrer des types de règlement pour définir des types d'opération, tels que des lettres de change, des paiements électroniques ou des chèques.  
-  
-### <a name="to-set-up-a-payment-class"></a>Pour paramétrer un type de règlement  
-  
-1.  Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Paramètres bordereau paiement**, puis sélectionnez le lien approprié.  
-  
-2.  Dans la fenêtre **Type de règlement**, sous l'onglet **Accueil**, choisissez **Nouveau**.  
-  
+
+## <a name="to-set-up-a-payment-class"></a>Pour paramétrer un type de règlement  
+
+1.  Sélectionnez l'icône ![Page ou état pour la recherche](../../media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Paramètres bordereau paiement**, puis sélectionnez le lien approprié.  
+2.  Dans la fenêtre **Type règlement**, sélectionnez l'action **Nouveau**.  
 3.  Renseignez les champs comme indiqué dans le tableau suivant.  
-  
+
     |Champ|Désignation|  
     |---------------------------------|---------------------------------------|  
     |**Activer**|Permet d'activer l'utilisation du type de règlement.|  
@@ -39,11 +37,9 @@ Pour utiliser le module Gestion des paiements, vous devez paramétrer des types 
     |**Propositions**|Type de proposition de règlement qui peut être créé automatiquement sur un bordereau paiement.|  
     |**Contrepassation de TVA sur encaissement**|Spécifiez la méthode pour gérer la TVA sur encaissement.<br /><br /> Si vous sélectionnez **Lettrage**, la TVA sera réalisée lors de la validation du lettrage de la facture et du paiement.<br /><br /> Si vous sélectionnez **En retard**, vous devez définir l'étape de règlement au cours de laquelle la TVA doit être réalisée, en sélectionnant le champ **Réaliser TVA** dans la fenêtre **Fiche étape règlement**. Pour plus d'informations, voir Réaliser TVA et Étape règlement.|  
     |**Type transfert SEPA**|Spécifiez le format d'exportation SEPA, **Virement** ou **Prélèvement**.|  
-  
-     Pour plus d'informations, voir Type de règlement.  
-  
+
 4.  Cliquez sur le bouton **OK**.  
-  
+
 ## <a name="see-also"></a>Voir aussi  
  [Gestion des paiements](payment-management.md)   
  [Procédure : paramétrer des statuts règlement](how-to-set-up-payment-statuses.md)   
@@ -52,8 +48,5 @@ Pour utiliser le module Gestion des paiements, vous devez paramétrer des types 
  [Procédure : exporter ou importer les paramètres de configuration de la gestion des paiements](how-to-export-or-import-payment-management-setup-parameters.md)   
  [Procédure : créer des bordereaux paiement](how-to-create-payment-slips.md)   
  [Procédure : valider des bordereaux paiement](how-to-post-payment-slips.md)   
- [Procédure : archiver des bordereaux paiement](how-to-archive-payment-slips.md)   
- Types de règlement   
- Types de règlement   
- Réaliser TVA   
- Étape règlement
+ [Procédure : archiver des bordereaux paiement](how-to-archive-payment-slips.md)
+
