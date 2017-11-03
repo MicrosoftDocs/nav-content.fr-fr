@@ -12,19 +12,22 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: adf37f9b80922a0652cf92478c77206175cd23d9
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 3649de416bdc023faf61b978b64b487dbce377f4
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
-# <a name="france-local-functionality"></a><span data-ttu-id="6eaac-103">Fonctionnalité locale, France</span><span class="sxs-lookup"><span data-stu-id="6eaac-103">France Local Functionality</span></span>
-<span data-ttu-id="6eaac-104">Les rubriques suivantes décrivent la fonctionnalité locale qui est propre à la version française de [!INCLUDE[navnow](../../includes/navnow_md.md)].</span><span class="sxs-lookup"><span data-stu-id="6eaac-104">The following topics describe local functionality that is unique to the French version of [!INCLUDE[navnow](../../includes/navnow_md.md)].</span></span>  
+# <a name="france-local-functionality"></a><span data-ttu-id="801a3-103">Fonctionnalité locale, France</span><span class="sxs-lookup"><span data-stu-id="801a3-103">France Local Functionality</span></span>
+<span data-ttu-id="801a3-104">Les rubriques suivantes décrivent la fonctionnalité locale qui est propre à la version française de [!INCLUDE[navnow](../../includes/navnow_md.md)].</span><span class="sxs-lookup"><span data-stu-id="801a3-104">The following topics describe local functionality that is unique to the French version of [!INCLUDE[navnow](../../includes/navnow_md.md)].</span></span>  
 
-## <a name="in-this-section"></a><span data-ttu-id="6eaac-105">Dans cette section</span><span class="sxs-lookup"><span data-stu-id="6eaac-105">In This Section</span></span>  
-  [<span data-ttu-id="6eaac-106">Écritures comptables</span><span class="sxs-lookup"><span data-stu-id="6eaac-106">General Ledger</span></span>](general-ledger.md)  
-  [<span data-ttu-id="6eaac-107">Périodes fiscales et exercices comptables</span><span class="sxs-lookup"><span data-stu-id="6eaac-107">Fiscal Periods and Fiscal Years</span></span>](fiscal-periods-and-fiscal-years.md)  
-  [<span data-ttu-id="6eaac-108">Amortissement accéléré</span><span class="sxs-lookup"><span data-stu-id="6eaac-108">Accelerated Depreciation</span></span>](accelerated-depreciation.md)  
-  [<span data-ttu-id="6eaac-109">Gestion des paiements</span><span class="sxs-lookup"><span data-stu-id="6eaac-109">Payment Management</span></span>](payment-management.md)  
-  [<span data-ttu-id="6eaac-110">Simulation d'écritures</span><span class="sxs-lookup"><span data-stu-id="6eaac-110">Simulation of Entries</span></span>](simulation-of-entries.md)  
+## <a name="in-this-section"></a><span data-ttu-id="801a3-105">Dans cette section</span><span class="sxs-lookup"><span data-stu-id="801a3-105">In This Section</span></span>  
+  [<span data-ttu-id="801a3-106">Écritures comptables</span><span class="sxs-lookup"><span data-stu-id="801a3-106">General Ledger</span></span>](general-ledger.md)  
+  [<span data-ttu-id="801a3-107">Périodes fiscales et exercices comptables</span><span class="sxs-lookup"><span data-stu-id="801a3-107">Fiscal Periods and Fiscal Years</span></span>](fiscal-periods-and-fiscal-years.md)  
+  [<span data-ttu-id="801a3-108">Amortissement accéléré</span><span class="sxs-lookup"><span data-stu-id="801a3-108">Accelerated Depreciation</span></span>](accelerated-depreciation.md)  
+  [<span data-ttu-id="801a3-109">Gestion des paiements</span><span class="sxs-lookup"><span data-stu-id="801a3-109">Payment Management</span></span>](payment-management.md)  
+  [<span data-ttu-id="801a3-110">Simulation d'écritures</span><span class="sxs-lookup"><span data-stu-id="801a3-110">Simulation of Entries</span></span>](simulation-of-entries.md)  
+
+## <a name="see-also"></a><span data-ttu-id="801a3-111">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="801a3-111">See Also</span></span>
+<span data-ttu-id="801a3-112">[Utilisation de [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="801a3-112">[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)</span></span>     
 
