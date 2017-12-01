@@ -3,7 +3,7 @@ title: "Procédure de suppression des écritures de simulation"
 description: "Vous pouvez créer et valider des écritures de simulation dans la comptabilité sans affecter la comptabilité réelle, et vous pouvez supprimer les écritures simulées."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 1483245926515fd09b299aa6f35ca10d25a61796
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 921d9ad8c902efa76a35447f1451ffd0def3825f
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-delete-simulation-entries"></a><span data-ttu-id="8e5f8-103">Procédure : supprimer des écritures de simulation</span><span class="sxs-lookup"><span data-stu-id="8e5f8-103">How to: Delete Simulation Entries</span></span>

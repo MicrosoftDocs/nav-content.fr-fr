@@ -3,7 +3,7 @@ title: "Procédure de création des écritures de simulation"
 description: "Une fois que vous avez configuré une simulation des écritures comptables, vous pouvez créer des écritures de simulation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: f066a1c284c918ea712c114905ba703165028e2a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: eae89afdda8d77c0bf9ea43bc80935c75c7de73b
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-simulation-entries"></a><span data-ttu-id="9d389-103">Procédure : créer des écritures de simulation</span><span class="sxs-lookup"><span data-stu-id="9d389-103">How to: Create Simulation Entries</span></span>

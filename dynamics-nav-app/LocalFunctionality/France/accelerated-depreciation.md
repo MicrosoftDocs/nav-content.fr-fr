@@ -3,7 +3,7 @@ title: "Amortissement accéléré"
 description: "L'amortissement accéléré est calculé sur la base des différences entre la loi d'amortissement comptable et la loi d'amortissement fiscal, sur toute la durée de vie de l'immobilisation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: bcc98cac97dab3fbc99c67cc3b163743ff8dfdbb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 791e4be28a76e0cf4ce2614bf7d88d9e2889181e
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="accelerated-depreciation"></a><span data-ttu-id="92dea-103">Amortissement accéléré</span><span class="sxs-lookup"><span data-stu-id="92dea-103">Accelerated Depreciation</span></span>

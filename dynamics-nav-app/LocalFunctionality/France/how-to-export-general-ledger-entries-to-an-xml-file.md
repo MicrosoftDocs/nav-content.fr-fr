@@ -3,7 +3,7 @@ title: "Procédure d'exportation des écritures comptables vers un fichier XML"
 description: "Pour l'archivage externe, et pour une période donnée, vous pouvez exporter des transactions financières vers un fichier XML."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 436a9ca6115c59f66e9047acd29c6ed7deaacbd7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d9f81f220cba9a5c89a80cfdc29af36024e450ea
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-export-general-ledger-entries-to-an-xml-file"></a><span data-ttu-id="ad3f9-103">Procédure d'exportation des écritures comptables de la comptabilité vers un fichier XML</span><span class="sxs-lookup"><span data-stu-id="ad3f9-103">How to: Export General Ledger Entries to an XML File</span></span>

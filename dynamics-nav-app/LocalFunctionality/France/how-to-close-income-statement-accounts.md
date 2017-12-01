@@ -3,7 +3,7 @@ title: "Procédure de clôture des comptes de gestion"
 description: "Avant d'exécuter un traitement par lots **Clôturer exercice comptable**, vous devez clôturer l'exercice fiscal."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: a539b5473cb0daf4b8f2c5ec6a669785000039c2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: aee2aa1d3e2ce4c831ca67ce6ddce84397658166
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-close-income-statement-accounts"></a><span data-ttu-id="b89e6-103">Procédure : Clôturer les comptes de gestion</span><span class="sxs-lookup"><span data-stu-id="b89e6-103">How to: Close Income Statement Accounts</span></span>

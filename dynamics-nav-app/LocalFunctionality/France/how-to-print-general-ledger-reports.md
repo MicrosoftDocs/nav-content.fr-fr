@@ -3,7 +3,7 @@ title: "Procédure d'impression des états comptables"
 description: "Les états comptables répondent aux normes de la comptabilité générale et ils contiennent des informations sur les écritures comptables, les simulations d'écritures, les écritures des clients, des fournisseurs et des banques."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: e37fbf58eebda1d3fef9f9fe84b51ced4cd17545
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b08487cca21662fd540486d71ee2b3d53c583ae8
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-general-ledger-reports"></a><span data-ttu-id="65751-103">Procédure : imprimer des états comptables</span><span class="sxs-lookup"><span data-stu-id="65751-103">How to: Print General Ledger Reports</span></span>

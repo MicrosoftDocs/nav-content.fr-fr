@@ -3,7 +3,7 @@ title: "Procédure de réouverture des périodes comptables"
 description: "Lorsqu'une seule période fiscale a été clôturée fiscalement, il peut être nécessaire de la rouvrir pour valider des écritures comptables."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 9fb6c103160f580334b1c5f771a795de59782bfb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 91e3cfe7d1d89eae897aea36a50f2de3309af9eb
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reopen-accounting-periods"></a><span data-ttu-id="699eb-103">Procédure : rouvrir des périodes comptables</span><span class="sxs-lookup"><span data-stu-id="699eb-103">How to: Reopen Accounting Periods</span></span>

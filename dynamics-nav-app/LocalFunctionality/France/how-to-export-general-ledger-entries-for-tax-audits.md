@@ -3,7 +3,7 @@ title: "Procédure d'exportation des écritures comptables pour les audits fisca
 description: "Le fichier d'audit standard utilisé à des fins fiscales enregistre des informations commerciales clés (transactions et validations comptables) dans un fichier au format courant spécifié à des fins d'audit. En France, vous devez fournir au gouvernement ces informations dans un fichier d'audit standard à partir de janvier 2014. Cela s'applique aux sociétés pour les besoins d'audit de l'impôt sur les sociétés et de la TVA."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 1a176aa81b1e7f2fbd21eb45e66c43c6ebdc1203
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7141083d339e3be1ec5b50483e8e447c918080d1
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-export-general-ledger-entries-for-tax-audits"></a><span data-ttu-id="301aa-105">Procédure : exporter des écritures comptables pour les audits fiscaux</span><span class="sxs-lookup"><span data-stu-id="301aa-105">How to: Export General Ledger Entries for Tax Audits</span></span>

@@ -3,7 +3,7 @@ title: "Procédure de délettrage des écritures comptables"
 description: "Vous pouvez délettrer des écritures comptables de manière très directe."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: cb7c31954023ce57a31bdb62bab4a620db9fccbc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b7c7207311204685a2e3395b0409a25148075001
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-unapply-general-ledger-entries"></a><span data-ttu-id="af660-103">Procédure : délettrer des écritures comptables</span><span class="sxs-lookup"><span data-stu-id="af660-103">How to: Unapply General Ledger Entries</span></span>

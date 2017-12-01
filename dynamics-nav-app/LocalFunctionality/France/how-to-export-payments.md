@@ -3,7 +3,7 @@ title: "Procédure d'exportation des paiements"
 description: "Le module Gestion des paiements vous permet d'exporter vos paiements par voie électronique via un fichier texte ou un XMLport."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 021cc19458a036b615b6fab7004899b2cbf65916
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: aba5d2da7c60aa6c881928d62b2ca961a0d16b00
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-export-payments"></a><span data-ttu-id="91690-103">Procédure : exporter des paiements</span><span class="sxs-lookup"><span data-stu-id="91690-103">How to: Export Payments</span></span>

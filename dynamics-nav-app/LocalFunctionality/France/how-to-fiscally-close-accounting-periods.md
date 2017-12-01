@@ -3,7 +3,7 @@ title: "Procédure de clôture fiscale des périodes comptables"
 description: "Lorsqu'une période fiscale est terminée, vous pouvez la clôturer fiscalement pour veiller à ce qu'aucune autre écriture comptable ne puisse être validée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 5438fe2ecd1ee300f93cade2746ee04b9ea70c0e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ec46e7b2510f912df28f801672d117f831ddfd38
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-fiscally-close-accounting-periods"></a><span data-ttu-id="136e1-103">Procédure : clôturer fiscalement des périodes comptables</span><span class="sxs-lookup"><span data-stu-id="136e1-103">How to: Fiscally Close Accounting Periods</span></span>

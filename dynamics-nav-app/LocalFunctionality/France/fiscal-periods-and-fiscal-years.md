@@ -3,7 +3,7 @@ title: "Périodes fiscales et exercices comptables"
 description: "Un exercice comptable est généralement divisé en 12 périodes fiscales mensuelles. Dans [!INCLUDE[navnow](../../includes/navnow_md.md)], deux exercices comptables peuvent être ouverts en même temps."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: c7c79cd2a33bb2018f18b01112828d31d94ee771
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 89faf113ea56a83e77e2b8b6cccbcc40b832b942
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="fiscal-periods-and-fiscal-years"></a><span data-ttu-id="db6af-104">Périodes fiscales et exercices comptables</span><span class="sxs-lookup"><span data-stu-id="db6af-104">Fiscal Periods and Fiscal Years</span></span>

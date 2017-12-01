@@ -3,7 +3,7 @@ title: "Procédure de paramétrage de l'amortissement accéléré"
 description: "Pour utiliser la fonction de calcul de l'amortissement accéléré, vous devez configurer les lois d'amortissement pour les immobilisations."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 6dcee004d82b837e283c01d28dcaea11853a8366
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0ed330f9a31eabf347f56d9fc71b6878628ee7f1
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-accelerated-depreciation"></a><span data-ttu-id="089b6-103">Procédure : paramétrer l'amortissement accéléré</span><span class="sxs-lookup"><span data-stu-id="089b6-103">How to: Set Up Accelerated Depreciation</span></span>

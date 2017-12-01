@@ -3,7 +3,7 @@ title: "Procédure d'archivage des bordereaux paiement"
 description: "Lorsqu'un bordereau paiement a été entièrement traité, vous pouvez le séparer des bordereaux paiement actifs en l'archivant."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: bbef394d9838ed9f2925ba37d4f4638977c3eccf
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2abd6e22c5bfb753c5ab2ad75f01463e292fb560
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-archive-payment-slips"></a><span data-ttu-id="601c6-103">Procédure : archiver des bordereaux paiement</span><span class="sxs-lookup"><span data-stu-id="601c6-103">How to: Archive Payment Slips</span></span>

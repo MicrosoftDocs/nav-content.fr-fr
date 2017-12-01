@@ -3,7 +3,7 @@ title: "Procédure de validation de l'écriture de clôture d'exercice"
 description: "Après avoir utilisé le traitement par lots **Solder les comptes de gestion** pour générer les écritures de clôture d'exercice, vous devez ouvrir la feuille spécifiée dans le traitement par lots, puis consulter et valider les écritures."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: c94bd1f9684e9100ad1563b2d442e2cca71120f9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f12dc81dd974eaaa73e4cda4c3fcef8d9a7f6891
 ms.contentlocale: fr-fr
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-post-the-year-end-closing-entry"></a><span data-ttu-id="1dba5-103">Procédure : valider l'écriture de clôture d'exercice</span><span class="sxs-lookup"><span data-stu-id="1dba5-103">How to: Post the Year-End Closing Entry</span></span>
