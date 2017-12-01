@@ -3,7 +3,7 @@ title: "Procédure de définition des périodes de validation"
 description: "En définissant des périodes de validation, vous limitez la période durant laquelle la validation est autorisée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

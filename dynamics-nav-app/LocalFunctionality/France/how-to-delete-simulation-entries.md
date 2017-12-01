@@ -3,7 +3,7 @@ title: "Procédure de suppression des écritures de simulation"
 description: "Vous pouvez créer et valider des écritures de simulation dans la comptabilité sans affecter la comptabilité réelle, et vous pouvez supprimer les écritures simulées."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

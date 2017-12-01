@@ -3,7 +3,7 @@ title: "Procédure de calcul de l'amortissement accéléré"
 description: "Dans [!INCLUDE[navnow](../../includes/navnow_md.md)], vous calculez l'amortissement périodique des immobilisations à l'aide du traitement par lots **Calculer amortissement**. La loi d'amortissement liée à l'immobilisation définit la méthode d'amortissement, la date de début de l'amortissement et le groupe comptabilisation immobilisation utilisé par le traitement par lots."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

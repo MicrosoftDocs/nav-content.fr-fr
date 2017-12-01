@@ -3,7 +3,7 @@ title: "Procédure de paramétrage des adresses de règlement"
 description: "Pour utiliser le module Gestion des paiements, vous devez paramétrer les adresses de règlement qui sont utilisées pour les fournisseurs et clients au moment du règlement. L'adresse de règlement peut différer de l'adresse par défaut."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

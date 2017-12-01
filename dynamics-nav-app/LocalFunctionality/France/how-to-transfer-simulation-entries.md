@@ -3,7 +3,7 @@ title: "Procédure de transfert des écritures de simulation"
 description: "Une fois que vous avez créé et validé des écritures de simulation dans la comptabilité, vous pouvez les transférer dans les écritures comptables réelles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

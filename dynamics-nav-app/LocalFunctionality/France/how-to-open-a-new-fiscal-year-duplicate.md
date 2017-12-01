@@ -3,7 +3,7 @@ title: "Procédure d'ouverture d'un nouvel exercice comptable"
 description: "Avant de pouvoir effectuer une validation dans un exercice comptable, vous devez l'ouvrir et définir ses périodes comptables."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

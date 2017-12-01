@@ -3,7 +3,7 @@ title: "Procédure d'exportation des écritures comptables pour les audits fisca
 description: "Le fichier d'audit standard utilisé à des fins fiscales enregistre des informations commerciales clés (transactions et validations comptables) dans un fichier au format courant spécifié à des fins d'audit. En France, vous devez fournir au gouvernement ces informations dans un fichier d'audit standard à partir de janvier 2014. Cela s'applique aux sociétés pour les besoins d'audit de l'impôt sur les sociétés et de la TVA."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

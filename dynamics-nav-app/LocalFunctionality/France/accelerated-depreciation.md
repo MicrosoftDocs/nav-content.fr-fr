@@ -3,7 +3,7 @@ title: "Amortissement accéléré"
 description: "L'amortissement accéléré est calculé sur la base des différences entre la loi d'amortissement comptable et la loi d'amortissement fiscal, sur toute la durée de vie de l'immobilisation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

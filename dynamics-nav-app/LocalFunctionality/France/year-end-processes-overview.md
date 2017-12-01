@@ -3,7 +3,7 @@ title: Vue d'ensemble des processus de fin d'exercice
 description: "Une clôture d'exercice dans [!INCLUDE[navnow](../../includes/navnow_md.md)] implique trois étapes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

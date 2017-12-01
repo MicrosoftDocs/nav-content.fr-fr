@@ -3,7 +3,7 @@ title: "Procédure de réouverture des périodes comptables"
 description: "Lorsqu'une seule période fiscale a été clôturée fiscalement, il peut être nécessaire de la rouvrir pour valider des écritures comptables."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

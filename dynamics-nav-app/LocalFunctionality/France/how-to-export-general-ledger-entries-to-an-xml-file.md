@@ -3,7 +3,7 @@ title: "Procédure d'exportation des écritures comptables vers un fichier XML"
 description: "Pour l'archivage externe, et pour une période donnée, vous pouvez exporter des transactions financières vers un fichier XML."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

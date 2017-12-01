@@ -3,7 +3,7 @@ title: "Procédure d'impression des états comptables"
 description: "Les états comptables répondent aux normes de la comptabilité générale et ils contiennent des informations sur les écritures comptables, les simulations d'écritures, les écritures des clients, des fournisseurs et des banques."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

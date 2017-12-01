@@ -3,7 +3,7 @@ title: "Procédure de validation des bordereaux paiement"
 description: "Vous devez valider des bordereaux paiement afin de finaliser une transaction paiement et créer des données financières. Vous pouvez valider un bordereau paiement si le **type d'action** du bordereau paiement est défini sur **Comptabilité**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
